@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "CurrencyDb": "Server=127.0.0.1;User Id=postgres;Password=1111;Port=5432;Database=currencydb;"
+  }
+}

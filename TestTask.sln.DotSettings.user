@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30c3c45d_002D57a7_002D4ef2_002D8bf8_002Dad605c095ea4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReadXmlData_StudentNameNull_Throw #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C7A93934-E5BA-44AB-8458-BC94C213BB39::net5.0::ConsoleApp.Tests.CurrencyLogTests.ReadXmlData_StudentNameNull_Throw&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59a12981_002D080d_002D4466_002D8589_002Dde61bf40f870/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReadXmlData_StudentNameNull_Throw #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C7A93934-E5BA-44AB-8458-BC94C213BB39::net5.0::ConsoleApp.Tests.CurrencyLogTests.ReadXmlData_StudentNameNull_Throw&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba1750a4_002Da49e_002D4f03_002Da468_002D49dcce1704d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReadXmlData_StudentNameNull_Throw" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C7A93934-E5BA-44AB-8458-BC94C213BB39::net5.0::ConsoleApp.Tests.CurrencyLibTests.ReadXmlData_LastElement_JapaneseYen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C7A93934-E5BA-44AB-8458-BC94C213BB39::net5.0::ConsoleApp.Tests.CurrencyLogTests.ReadXmlData_FirstElement_AustralianDollar&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C7A93934-E5BA-44AB-8458-BC94C213BB39::net5.0::ConsoleApp.Tests.CurrencyLogTests.ReadXmlData_StudentNameNull_Throw&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
